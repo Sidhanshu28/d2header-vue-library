@@ -2,7 +2,7 @@
 
 This is dhis2 header library written in vue.js to include in external applications in DHIS2 Application.
 
-##how to use
+#how to use
 
 - install using npm
 
@@ -16,6 +16,6 @@ This is dhis2 header library written in vue.js to include in external applicatio
 
 - include in template as
   
-'<d2headerBar></d2headerBar>'
+<code>< d2headerBar> < /d2headerBar></code>
 
 Link to npm package : https://www.npmjs.com/package/dhis2-header-vue
