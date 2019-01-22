@@ -4,6 +4,18 @@ This is dhis2 header library written in vue.js to include in external applicatio
 
 ##how to use
 
-- Copy the file DhisHeader.vue from src/components/d2header location
-- Use <d2header/> tag for including header in your Application
-- Refer App.vue file.
+- install using npm
+
+<code>npm i dhis2-header-vue</code>
+
+- import in vue project using
+  
+<code>import d2headerBar from 'dhis2-header-vue'</code>
+
+<code>Vue.use(d2headerBar)</code>
+
+- include in template as
+  
+<code>'<d2headerBar></d2headerBar>'</code>
+
+Link to npm package : https://www.npmjs.com/package/dhis2-header-vue

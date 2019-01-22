@@ -129,7 +129,7 @@
 import axios from "axios";
 
 export default {
-  name: "d2ˀheader",
+  name: "d2headerBar",
   data() {
     return {
       heading: "",
