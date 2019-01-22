@@ -1,6 +1,6 @@
 {
   "name": "dhis2-header-vue",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "private": false,
   "main": "dist/d2headerBar.umd.js",
   "module": "dist/d2headerBar.esm.js",
